@@ -96,11 +96,13 @@
     <orderEntry type="library" scope="PROVIDED" name="regexp_parser (v1.6.0, rbenv: 2.6.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="responders (v3.0.0, rbenv: 2.6.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ruby_dep (v1.5.0, rbenv: 2.6.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ruby_http_client (v3.3.0, rbenv: 2.6.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rubyzip (v1.2.3, rbenv: 2.6.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass (v3.7.4, rbenv: 2.6.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass-listen (v4.0.0, rbenv: 2.6.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass-rails (v5.0.7, rbenv: 2.6.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="selenium-webdriver (v3.142.3, rbenv: 2.6.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sendgrid-ruby (v6.0.0, rbenv: 2.6.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="spring (v2.1.0, rbenv: 2.6.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="spring-watcher-listen (v2.0.1, rbenv: 2.6.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets (v3.7.2, rbenv: 2.6.3) [gem]" level="application" />
