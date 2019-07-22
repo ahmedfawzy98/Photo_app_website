@@ -1,0 +1,7 @@
+development:
+  SENDGRID_USERNAME: 'api_key'
+  SENDGRID_PASSWORD: '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'
+
+production:
+  SENDGRID_USERNAME: 'api_key'
+  SENDGRID_PASSWORD: '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'
