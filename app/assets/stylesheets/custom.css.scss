@@ -109,8 +109,9 @@
 
 .jumbotron {
   text-align: center;
-  background-image: asset-url('meeting.jpg');
-  background-size: cover;
+  background-image: asset-url('meeting3.jpg');
+  //background-repeat: no-repeat;
+  background-size: 100% 100%;
   color: #fff;
   font-family: 'Helvetica Neue' !important;
   font-stretch: expanded;
