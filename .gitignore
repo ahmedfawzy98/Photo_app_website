@@ -31,3 +31,4 @@
 /config/master.key
 
 .idea/
+config/app_environment_variables.rb
