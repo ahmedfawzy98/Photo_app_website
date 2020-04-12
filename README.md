@@ -1,24 +1,17 @@
-# README
+# Photo-Website
+This is a simple photos website as a hobby project aimed to learn Ruby on Rails, Bootstrap and honing web development skills.\
+[Photo-Website](https://photo-app-ahmed.herokuapp.com/)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## Features
+* Subscription in free or premium plans.
+* Add images to user's gallery, edit and delete them.
+* Edit user's profile and account cancellation.
 
-* Ruby version
+## Built with
+[Ruby on Rails](https://rubyonrails.org/)\
+[Bootstrap](https://getbootstrap.com)
 
-* System dependencies
+## Deployment
+[Heroku](https://heroku.com/)
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
